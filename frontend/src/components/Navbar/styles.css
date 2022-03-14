@@ -3,9 +3,10 @@ header {
     height: 60px;
     display: flex;
     align-items: center;
+
 }
 
-.dsmovie-nav-content{
+.dsmovie-nav-content {
     display: flex;
     justify-content: space-between;
     align-items: center;
